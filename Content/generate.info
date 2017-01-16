@@ -1,0 +1,19 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Desktop/ButtonExample/Content/Assets/ButtonPlay.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>4cdc88ca85f23b4037091fe3620df43e</FileHash>
+        <WinfoHash>e08671a1c80c4ef93221539b5034e092</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/danimart1991/Desktop/ButtonExample/Content/Assets/ButtonPlayOver.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>73ebcf07d4c22ddb22923badf5639115</FileHash>
+        <WinfoHash>ff1aa24e4a92a57dada0a3dadb9f13ad</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF000506E3</id>
+</GenerateInfo>
